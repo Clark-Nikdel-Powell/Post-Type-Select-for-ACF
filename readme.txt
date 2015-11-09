@@ -1,4 +1,4 @@
-=== Advanced Custom Fields: Post Type Select Field ===
+=== Post Type Select Field for Advanced Custom Fields ===
 Contributors: gwelser
 Tags: acf, post type, select, advanced custom fields
 Requires at least: 3.5
@@ -7,11 +7,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Custom field definition for Advanced Custom Fields for a select box populated with post types.
+Custom field definition for Advanced Custom Fields for a select box populated with post types. Add-on for Advanced Custom Fields.
 
 == Description ==
 
-The ACF Post Type Select provides a select field type for choosing a WordPress Post Type.
+Post Type Select for Advanced Custom Fields provides a select field type for choosing a WordPress Post Type.
 
 = Compatibility =
 

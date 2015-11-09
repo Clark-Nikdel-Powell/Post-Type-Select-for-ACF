@@ -1,14 +1,14 @@
 -----------------------
 
-# ACF Post Type Select Field
+# Post Type Select Field for Advanced Custom Fields
 
-Custom field definition for Advanced Custom Fields for a select box populated with post types.
+Post Type select field. Add-on for Advanced Custom Fields.
 
 -----------------------
 
 ### Description
 
-The ACF Post Type Select provides a select field type for choosing a WordPress Post Type.
+Adds a Post Type Select field type in Advanced Custom Fields. The field allows the user to select a Post Type.
 
 ### Compatibility
 

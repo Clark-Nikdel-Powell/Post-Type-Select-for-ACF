@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Advanced Custom Fields: Post Type Select
+Plugin Name: Post Type Select for Advanced Custom Fields
 Plugin URI: https://github.com/Clark-Nikdel-Powell/ACF-Post-Type-Select
 Description: Custom field definition for Advanced Custom Fields for a select box populated with post types.
 Version: 1.0.0
