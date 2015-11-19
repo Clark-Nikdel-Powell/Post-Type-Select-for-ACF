@@ -11,7 +11,7 @@ Custom field definition for Advanced Custom Fields for a select box populated wi
 
 == Description ==
 
-Post Type Select for Advanced Custom Fields provides a select field type for choosing a WordPress Post Type.
+Post Type Select for Advanced Custom Fields provides a select field for choosing a WordPress Post Type.
 
 = Compatibility =
 
