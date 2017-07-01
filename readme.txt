@@ -28,5 +28,8 @@ This ACF field type is compatible with:
 
 == Changelog ==
 
+= 1.1.0 =
+Filter for public arg of post_type_options
+
 = 1.0.0 =
 * Initial Release.

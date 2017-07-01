@@ -4,7 +4,7 @@
 Plugin Name: Post Type Select for Advanced Custom Fields
 Plugin URI: https://github.com/Clark-Nikdel-Powell/Post-Type-Select-for-ACF
 Description: Custom field definition for Advanced Custom Fields for a select box populated with post types.
-Version: 1.0.0
+Version: 1.1.0
 Author: Glenn Welser
 Author URI: https://clarknikdelpowell.com/agency/people/glenn
 License: GPLv2 or later
