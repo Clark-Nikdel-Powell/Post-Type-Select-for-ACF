@@ -210,7 +210,7 @@ class acf_field_posttype_select extends acf_field
      */
     private function post_type_options()
     {
-        $args = array( 'public' => true );
+        $args = apply_filters('acf_field_posttype_select/get_post_types_args', array( 'public' => true ));
         $post_types = get_post_types($args, 'objects');
         $output = array();
         foreach ($post_types as $post_type) {
